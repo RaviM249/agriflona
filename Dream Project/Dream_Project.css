@@ -1,0 +1,24 @@
+body{
+	color:blue;
+}
+#Form_search{
+	color:blue;
+}
+.navbar-custom {
+    background-color: blue;
+}
+p{
+	color: #3d0c10;
+}
+.cssmarquee{
+	overflow: hidden;
+}
+.selection{
+	color:green;
+}
+#markee {
+	color: #afdebc;
+   position: absolute;
+  top: 322px;
+  left: 450px;
+}
